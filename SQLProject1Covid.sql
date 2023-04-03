@@ -1,6 +1,6 @@
 /*
 
-Covid 19 Data
+Covid 19 Data Exploration
 Skills used: Joins, CTEs, Temp Tables, Aggregate Functions, Creating Views, Converting Data Types (Cast and Convert)
 
 */

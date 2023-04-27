@@ -11,4 +11,6 @@ https://ourworldindata.org/covid-deaths
 
 Data Exploration script and Queries used for Tableau project can be viewed in this repository.
 
+View the final dashboard on Tableau Public https://github.com/Deepika-2321/PortfolioProject-Covid/blob/main/Dashboard%201.png
+
 
